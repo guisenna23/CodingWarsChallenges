@@ -1,7 +1,5 @@
 package stringToCamelCase;
 
-import java.util.Locale;
-
 public class Solution {
     static String toCamelCase(String s){
         StringBuilder builder = new StringBuilder(s);
